@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\Servicio\bin\Debug\Servicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\Servicio\bin\Debug\Servicio.InstallLog
+   assemblypath = C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\Servicio\bin\Debug\Servicio.exe
+Instalando el servicio ServicioSimphonyCasino...
+El servicio ServicioSimphonyCasino se ha instalado correctamente.
+Creando el origen de EventLog ServicioSimphonyCasino en el registro Application...
+Confirmando ensamblado 'C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\Servicio\bin\Debug\Servicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\Servicio\bin\Debug\Servicio.InstallLog
+   assemblypath = C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\Servicio\bin\Debug\Servicio.exe

@@ -1,0 +1,8 @@
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\ServicioSimphony\bin\Debug\ServicioSimphony.exe.config
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\ServicioSimphony\bin\Debug\ServicioSimphony.exe
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\ServicioSimphony\bin\Debug\ServicioSimphony.pdb
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\ServicioSimphony\obj\Debug\ServicioSimphony.csproj.CoreCompileInputs.cache
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\ServicioSimphony\obj\Debug\ServicioSimphony.exe
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\ServicioSimphony\obj\Debug\ServicioSimphony.pdb
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\ServicioSimphony\obj\Debug\Servicio.Installer.resources
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\ServicioSimphony\obj\Debug\ServicioSimphony.csproj.GenerateResource.cache

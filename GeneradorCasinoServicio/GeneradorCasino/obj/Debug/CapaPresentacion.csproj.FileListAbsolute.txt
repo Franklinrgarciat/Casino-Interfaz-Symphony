@@ -1,0 +1,17 @@
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\bin\Debug\GeneradorCasino.exe.config
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\bin\Debug\GeneradorCasino.exe
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\bin\Debug\GeneradorCasino.pdb
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\bin\Debug\CapaEntidades.dll
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\bin\Debug\CapaNegocios.dll
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\bin\Debug\CapaDatos.dll
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\bin\Debug\CapaEntidades.pdb
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\bin\Debug\CapaNegocios.pdb
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\bin\Debug\CapaDatos.pdb
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\obj\Debug\GeneradorCasino.FormPrincipal.resources
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\obj\Debug\GeneradorCasino.Properties.Resources.resources
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\obj\Debug\GeneradorCasino.exe
+C:\Users\mati\Documents\ProyectoCasino\GeneradorCasino\GeneradorCasino\obj\Debug\GeneradorCasino.pdb

@@ -1,0 +1,29 @@
+01-09-2021 14:27 - Referencia a objeto no establecida como instancia de un objeto.
+01-09-2021 14:35 - Referencia a objeto no establecida como instancia de un objeto.
+01-09-2021 14:49 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 14:52 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 14:55 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 15:06 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 15:09 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 15:12 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 15:15 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 15:21 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 15:22 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 15:25 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 15:26 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 15:28 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 15:33 - La cadena de entrada no tiene el formato correcto.
+01-09-2021 15:41 - No se agrego el número de comprobante: A0100100000001, el CUIT: 20250205083  no existe en Tango.
+01-09-2021 15:41 - No se agrego el número de comprobante: A0100100000001, el CUIT: 20250205083  no existe en Tango.
+01-09-2021 15:41 - No se agrego el número de comprobante: A0100100000003, el CUIT: 20250205083  no existe en Tango.
+01-09-2021 15:41 - No se agrego el número de comprobante: A0100100000002, el CUIT: 20250205083  no existe en Tango.
+01-09-2021 15:41 - Cannot insert duplicate key row in object 'dbo.GVA12' with unique index 'IX_2'. The duplicate key value is (FAC, B0100100000001).
+The statement has been terminated.
+01-09-2021 15:42 - NO SE AGREGO: el Número de Comprobante: B0100100000001 de tipo: FAC , porque ya se encuentra registrado en tango
+01-09-2021 15:42 - NO SE AGREGO: el Número de Comprobante: B0100100000001 de tipo: FAC , porque ya se encuentra registrado en tango
+01-09-2021 15:42 - No se agrego el número de comprobante: A0100100000001, el CUIT: 20250205083  no existe en Tango.
+01-09-2021 15:42 - No se agrego el número de comprobante: A0100100000001, el CUIT: 20250205083  no existe en Tango.
+01-09-2021 15:42 - No se agrego el número de comprobante: A0100100000003, el CUIT: 20250205083  no existe en Tango.
+01-09-2021 15:42 - No se agrego el número de comprobante: A0100100000002, el CUIT: 20250205083  no existe en Tango.
+01-09-2021 15:42 - No se puede crear un archivo que ya existe.
+
